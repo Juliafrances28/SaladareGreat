@@ -1,0 +1,71 @@
+H1 {
+  text-align: center;
+  font-size: 34px;
+  line-height: 48px;
+  margin: 0;
+  color: #11913c;
+}
+
+H2 {
+  text-align: center;
+  margin: 0;
+  font-size: 34;
+  line-height: 48px;
+  font-weight: lighter;
+  color: #f2b818;
+  box-shadow: 10px 5px 10px 5px #7c181c;
+}
+
+P {
+  vertical-align: 25px;
+  font-size: 18px;
+  text-align: center;
+  color: #f2b818;
+  padding: 20px;
+  line-height: 1.5;
+}
+
+img {
+  max-width: 100%;
+  display: Block;
+  margin: 0 auto;
+  padding: 20px;
+  border-radius: 50px;
+  border-color: #7c181c;
+  background: linear-gradient();
+}
+
+.Salads {
+  color: #11913c;
+  text-align: center;
+  font-weight: bold;
+  font-size: 25px;
+  box-shadow: 10px 5px 5px #7c181c;
+}
+
+.varietybutton:hover {
+  background-color: #11913c;
+  color: #fff;
+  border: 1px solid #fff;
+  transition: right 2s ease-in-out 0.5s;
+  cursor: pointer;
+}
+
+.varietybutton {
+  border-radius: 30px;
+  text-align: center;
+  display: block;
+  margin: 20px 50px;
+  color: #7c181c;
+  font-size: 16px;
+  line-height: 22px;
+  padding: 16px 24px;
+  cursor: 🥗;
+  border: 1px solid;
+  width: 100px;
+  position: relative;
+  top: 100%;
+  bottom: 100%;
+  left: 45%;
+  right: 45%;
+}
