@@ -4,17 +4,18 @@ H1 {
   line-height: 48px;
   margin: 0;
   color: #11913c;
+  box-shadow: 10px 5px 10px 5px #7c181c;
 }
 
-H2 {
+/* .love {
   text-align: center;
   margin: 0;
   font-size: 34;
   line-height: 48px;
   font-weight: lighter;
-  color: #f2b818;
+  color: #11913c;
   box-shadow: 10px 5px 10px 5px #7c181c;
-}
+} */
 
 P {
   vertical-align: 25px;
@@ -25,7 +26,7 @@ P {
   line-height: 1.5;
 }
 
-img {
+.harvest {
   max-width: 100%;
   display: Block;
   margin: 0 auto;
@@ -68,4 +69,22 @@ img {
   bottom: 100%;
   left: 45%;
   right: 45%;
+}
+
+.healthy {
+  display: grid;
+  margin: 0 auto;
+  padding: 30px;
+  border-radius: 50px;
+}
+
+.nav {
+  text-align: center;
+  margin: 0;
+  font-size: 34;
+  font-style: bold;
+  line-height: 48px;
+  font-weight: lighter;
+  color: green;
+  box-shadow: 10px 5px 10px 5px #7c181c;
 }
