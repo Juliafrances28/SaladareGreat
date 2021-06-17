@@ -1,3 +1,4 @@
+/* This is the H1 for the homepage */
 H1 {
   text-align: center;
   font-size: 34px;
@@ -17,7 +18,8 @@ H1 {
   box-shadow: 10px 5px 10px 5px #7c181c;
 } */
 
-P {
+/* This is concerning the paragraphs on the homepage */
+.food {
   vertical-align: 25px;
   font-size: 18px;
   text-align: center;
@@ -26,6 +28,7 @@ P {
   line-height: 1.5;
 }
 
+/* This is for the image on the homepage */
 .harvest {
   max-width: 100%;
   display: Block;
@@ -36,6 +39,7 @@ P {
   background: linear-gradient();
 }
 
+/* This is for the salad icon on the homepage */
 .Salads {
   color: #11913c;
   text-align: center;
@@ -44,6 +48,7 @@ P {
   box-shadow: 10px 5px 5px #7c181c;
 }
 
+/* This is for the button on the homepage */
 .varietybutton:hover {
   background-color: #11913c;
   color: #fff;
@@ -52,6 +57,7 @@ P {
   cursor: pointer;
 }
 
+/* This is for the button on homepage */
 .varietybutton {
   border-radius: 30px;
   text-align: center;
@@ -71,13 +77,42 @@ P {
   right: 45%;
 }
 
+/* This is for the img tags on the salad page
 .healthy {
   display: grid;
-  margin: 0 auto;
-  padding: 30px;
+  margin-top: 30px;
+  width: 30%;
+} */
+
+/* This property references the images in the salad page */
+.healthy {
+  display: flex;
+  margin-bottom: 30px;
+  margin-top: 30px;
+  padding: 20px;
   border-radius: 50px;
+  width: 50%;
+  content: center;
 }
 
+/* This is concerning the paragraphs on the salad page   */
+.tossed {
+  vertical-align: 25px;
+  font-size: 18px;
+  color: #f2b818;
+  margin-left: 15px;
+}
+
+.delicious {
+  display: grid;
+  margin-top: 25px;
+  grid-template-rows: auto;
+  text-indent: 60px;
+  font-size: 20px;
+  grid-area: none;
+}
+
+/* This is for the nav bar on all pages */
 .nav {
   text-align: center;
   margin: 0;
@@ -85,6 +120,5 @@ P {
   font-style: bold;
   line-height: 48px;
   font-weight: lighter;
-  color: green;
   box-shadow: 10px 5px 10px 5px #7c181c;
 }
