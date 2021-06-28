@@ -49,15 +49,15 @@ H1 {
 }
 
 /* This is for the button on the homepage */
-.varietybutton:hover {
+/* .varietybutton:hover {
   background-color: #11913c;
   color: #fff;
   border: 1px solid #fff;
   transition: right 2s ease-in-out 0.5s;
   cursor: pointer;
-}
+} */
 
-/* This is for the button on homepage */
+/* This is for the button on homepage
 .varietybutton {
   border-radius: 30px;
   text-align: center;
@@ -75,13 +75,6 @@ H1 {
   bottom: 100%;
   left: 45%;
   right: 45%;
-}
-
-/* This is for the img tags on the salad page
-.healthy {
-  display: grid;
-  margin-top: 30px;
-  width: 30%;
 } */
 
 /* This property references the images in the salad page */
