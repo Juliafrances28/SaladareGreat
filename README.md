@@ -7,7 +7,7 @@
  * [Instructions](#Instructions)
  * [Usage](#Usage)
  * [Questions](#Questions)
- * [Contributed] (#Contributed)
+ * [Contributed](#Contributed)
  * [Username](#Username)
  * [Email](#Email)
  
