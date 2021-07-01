@@ -1,13 +1,15 @@
 # SaladsareGreat
 
 ## Table of Contents
- * [Email](#Email)
- * [Username](#Username)
+ 
+
  * [Description](#Description)
  * [Instructions](#Instructions)
  * [Usage](#Usage)
  * [Questions](#Questions)
- 
+ * [Contributed] (#Contributed)
+ * [Username](#Username)
+ * [Email](#Email)
  
 ## Description
 create a website on any topic using Javascript, html and css. 
