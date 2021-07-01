@@ -12,14 +12,14 @@
  * [Email](#Email)
  
 ## Description
-create a website on any topic using Javascript, html and css. 
+The goal here was to create a website on any topic using Javascript, html and css. 
 
 
 ## Usage
 To share my love of salads with others. 
 
 ## Contributed
-It was a solo project
+It was a solo project. 
 
 
 ## Questions
