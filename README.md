@@ -1,6 +1,6 @@
-# SaladareGreat
+# SaladsareGreat
 
-Table of Contents
+## Table of Contents
  * [Email](#Email)
  * [Username](#Username)
  * [Description](#Description)
@@ -9,27 +9,27 @@ Table of Contents
  * [Questions](#Questions)
  
  
-Description
+## Description
 create a website on any topic using Javascript, html and css. 
 
 
-Usage
+## Usage
 To share my love of salads with others. 
 
-Contributed
+## Contributed
 It was a solo project
 
 
-Questions
+## Questions
 If you have any additional questions please do not hesitate to reach out. 
 
-Username
+## Username
 juliafrances28
 
-Email
+## Email
 julia.horan28@gmail.com
 
-Repo link
+## Repo link
 https://github.com/Juliafrances28/SaladsareGreat
 
-Deployed link
+## Deployed link
